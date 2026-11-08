@@ -1,0 +1,10 @@
+# Masjid Abubakarsadik – sivun asetukset
+# Ulkoasu, rukousaikojen ja Instagramin haku: https://github.com/suomen-moskeijat/pohja
+title: "Masjid Abubakarsadik"
+description: "Masjid Abubakarsadik, Kalastajanmäki 13, 02230 Espoo. Rukousajat, tapahtumat ja toiminta."
+moskeija: masjid-abubakarsadik     # tiedosto _moskeijat/masjid-abubakarsadik.md
+
+# Osoite: https://suomen-moskeijat.github.io/masjid-abubakarsadik/
+# Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
+url: "https://suomen-moskeijat.github.io"
+baseurl: "/masjid-abubakarsadik"
